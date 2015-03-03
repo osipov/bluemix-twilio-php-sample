@@ -6,7 +6,7 @@ Twilio enables phones, VoIP, and messaging to be embedded into web, desktop, and
 
 You will also need a number that can receive text messages. This number must be verified with Twilio using the following link http://twilio.com/user/account/phone-numbers/verified
 
-** If you are going to use PHP **
+**If you are going to use PHP**
 
 Once you are registered with Twilio and ready to try the sample Twilio application, change directory to ```twilio```  and execute the following commands from your console.
 
@@ -38,7 +38,7 @@ cf restage twilio
 
 To test the application, open your favorite browser using the application URL you noted earlier, i.e the one ending with mybluemix.net.
 
-** To install PHP pre-requisites for a local deployment ** 
+**To install PHP pre-requisites for a local deployment** 
 
 Via [Composer](https://getcomposer.org/)
 
