@@ -8,7 +8,7 @@ You will also need a number that can receive text messages. This number must be 
 
 **If you are going to use PHP**
 
-Once you are registered with Twilio and ready to try the sample Twilio application, change directory to ```twilio```  and execute the following commands from your console.
+Once you are registered with Twilio and ready to try the sample Twilio application, change directory to ```bluemix-twilio-php-sample```  and execute the following commands from your console.
 
 ```
 cf login https://api.ng.bluemix.net
