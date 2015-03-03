@@ -1,0 +1,7 @@
+---
+applications:
+- name: twilio
+  host: twilio-${random-word}
+  memory: 128M
+  instances: 1
+  buildpack: php_buildpack
